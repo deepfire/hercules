@@ -1,0 +1,2484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.17-->
+  <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0"/>
+    <node id="n0" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="731.2690454490822" width="711.1346029745644" x="-1112.761418073284" y="-1411.1310330911465"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="711.1346029745644" x="0.0" y="0.0">Hercules.ServerEnv.newEnv</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 16</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n0:">
+        <node id="n0::n0" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="141.4609375" width="302.21101472329633" x="-1095.3925650624026" y="-1374.6700955911465"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="302.21101472329633" x="0.0" y="0.0">Hercules.Config.Config</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.2880859375" x="-17.14404296875" y="0.0">Folder 251</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n0:">
+            <node id="n0::n0::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="96.41971612135922" x="-994.7925650624024" y="-1338.2091580911465"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.9375" x="15.741108060679608" y="6.015625">configPort<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n0::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="35.76091820064539" x="-878.3090827403976" y="-1338.2091580911465"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.216796875" x="4.0" y="6.015625">Port</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n0::n2">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-898.3728489410432" y="-1338.2091580911465"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n0::n3">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="107.25362867814306" x="-1005.6264776191863" y="-1308.2091580911465"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="102.07421875" x="2.5897049640715295" y="6.015625">configHostname<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n0::n4">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="70.12753240129132" x="-878.3090827403976" y="-1308.2091580911465"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.353515625" x="4.0" y="6.015625">Hostname</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n0::n5">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-898.3728489410432" y="-1308.2091580911465"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n0::n6">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="182.01971612135924" x="-1080.3925650624026" y="-1278.2091580911465"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.4609375" x="0.7793893106795622" y="6.015625">configHydraConnectionString<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n0::n7">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="38.890137522502755" x="-878.3090827403976" y="-1278.2091580911465"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.51953125" x="4.0" y="6.015625">Text</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n0::n8">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-898.3728489410432" y="-1278.2091580911465"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n0::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="269.0237662006457" x="-778.1815503391063" y="-1338.2091580911465"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="268.498046875" x="4.0" y="6.015625">Hercules.OAuth.Types.OAuth2Authenticator</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="96.41971612135922" x="-778.1815503391065" y="-1374.6627713723965"/>
+              <y:Fill color="#FFCC00" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="91.48046875" x="2.4696236856796077" y="6.015625">authenticators<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n3">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="36.45361328125" width="20.06376620064566" x="-661.6980680171016" y="-1374.6627713723965"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="13.36328125" x="4.0" y="9.242431640625">[]</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n4">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-681.7618342177473" y="-1374.6627713723965"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n5" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="64.0" width="678.765749963683" x="-1095.3925650624026" y="-1224.7593467278743"/>
+                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="678.765749963683" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 11</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n5:">
+            <node id="n0::n5::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="261.58291461690214" x="-1080.3925650624026" y="-1205.7593467278743"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" underlinedText="true" verticalTextPosition="bottom" visible="true" width="265.896484375" x="4.0" y="6.015625">Hercules.ServerEnv.getHerculesConnection</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n5::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-818.8096504455004" y="-1205.7593467278743"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n5::n2">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="37.79269158239845" x="-798.7458842448548" y="-1205.7593467278743"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n5::n3">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="49.19689203744542" x="-760.9531926624563" y="-1205.7593467278743"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.80859375" x="4.0" y="6.015625">Maybe</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n5::n4">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="70.12753240129132" x="-711.7563006250111" y="-1205.7593467278743"/>
+                  <y:Fill color="#00CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.720703125" x="4.0" y="6.015625">Data.Pool</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n5::n5">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="205.17971612135932" x="-641.6287682237196" y="-1205.7593467278743"/>
+                  <y:Fill color="#00CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.001953125" x="4.0" y="6.015625">Database.PostgreSQL.Connection</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n0::n6">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-965.5704327954672" y="-1083.409912638058"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n7">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="115.58093047812963" x="-1081.1513632735966" y="-1083.409912638058"/>
+              <y:Fill color="#FFCC00" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.509765625" x="4.535582426564815" y="6.015625">hydraConnection<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n8" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="64.0" width="504.8722739218208" x="-1096.1513632735966" y="-1156.3095353646022"/>
+                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="504.8722739218208" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="1" leftF="0.7587982111940619" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 11</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n8:">
+            <node id="n0::n8::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="136.12753240129132" x="-1080.3925650624026" y="-1137.3095353646022"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="dashed_dotted" width="2.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="129.14453125" x="3.4915005756456594" y="6.015625">Data.Pool.createPool<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n8::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-944.2650326611113" y="-1137.3095353646022"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n8::n2">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="37.79269158239845" x="-924.2012664604656" y="-1137.3095353646022"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n8::n3">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="70.12753240129132" x="-886.4085748780672" y="-1137.3095353646022"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.720703125" x="4.0" y="6.015625">Data.Pool</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n8::n4">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="205.17971612135932" x="-816.2810424767758" y="-1137.3095353646022"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.001953125" x="4.0" y="6.015625">Database.PostgreSQL.Connection</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n0::n9">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="269.6012531318903" x="-1096.180208701729" y="-965.1608558216972"/>
+              <y:Fill color="#FFCC00" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="272.763671875" x="-1.5812093715549054" y="6.015625">Network.HTTP.Client.TLS.tlsManagerSettings<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n10">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-826.5789555698391" y="-965.1608558216972"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n11">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="256.37971612135914" x="-806.5151893691934" y="-965.1608558216972"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="258.47265625" x="4.0" y="6.015625">Network.HTTP.Client.TLS.ManagerSettings</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n12" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="67.0" width="488.5906308093356" x="-1096.180208701729" y="-926.2612330951529"/>
+                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="488.5906308093356" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="3" bottomF="3.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 11</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n12:">
+            <node id="n0::n12::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="212.92753240129127" x="-1081.180208701729" y="-907.2612330951529"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="208.609375" x="2.1590787006457504" y="6.015625">Network.HTTP.Client.newManager<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n12::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-868.2526763004375" y="-907.2612330951529"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n12::n2">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="186.77971612135923" x="-810.3962185173934" y="-907.2612330951529"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="183.806640625" x="4.0" y="6.015625">Network.HTTP.Client.Manager</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n12::n3">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="37.79269158239845" x="-848.1889100997921" y="-907.2612330951529"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n0::n13" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="67.0" width="398.66462732029026" x="-1096.8908964984057" y="-850.3616103686086"/>
+                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="398.66462732029026" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="3" bottomF="3.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 11</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n13:">
+            <node id="n0::n13::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="214.34890799464404" x="-1081.8908964984057" y="-831.3616103686086"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.3359375" x="4.006485247321962" y="6.015625">Servant.Auth.Server.generateKey<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n13::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-867.5419885037613" y="-831.3616103686086"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n13::n2">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="130.77971612135923" x="-847.4782223031154" y="-831.3616103686086"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="130.251953125" x="4.0" y="6.015625">Crypto.JOSE.JWK.JWK</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n0::n14">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="239.94890799464395" x="-1081.8908964984057" y="-774.4619876420643"/>
+              <y:Fill color="#FFCC00" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="243.794921875" x="-1.9230069401780838" y="6.015625">Servant.Auth.Server.defaultJWTSettings<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n15">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-841.9419885037612" y="-774.4619876420643"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n16">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="196.37971612135914" x="-784.0855307207173" y="-774.4619876420643"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="201.572265625" x="4.0" y="6.015625">Servant.Auth.Server.JWTSettings</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n17">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="37.79269158239845" x="-821.8782223031155" y="-774.4619876420643"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n18">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="70.12753240129132" x="-945.5066665948216" y="-1083.409912638058"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.720703125" x="4.0" y="6.015625">Data.Pool</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n19">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="205.17971612135932" x="-875.3791341935303" y="-1083.409912638058"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.001953125" x="4.0" y="6.015625">Database.PostgreSQL.Connection</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n0::n20" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="70.44981136327209" width="545.3779878168489" x="-1096.1513632735966" y="-1044.5102899115136"/>
+                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="545.3779878168489" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="6" topF="6.44981136327209"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 11</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n20:">
+            <node id="n0::n20::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-894.3716471522373" y="-1019.0604785482415"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n20::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="37.79269158239845" x="-874.3078809515916" y="-1019.0604785482415"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n20::n2">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="49.19689203744542" x="-836.5151893691932" y="-1019.0604785482415"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.80859375" x="4.0" y="6.015625">Maybe</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n20::n3">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="186.77971612135923" x="-1081.1513632735966" y="-1019.0604785482415"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="dashed_dotted" width="2.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.73828125" x="1.0207174356796713" y="6.015625">Hercules.ServerEnv.getCipher<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n0::n20::n4">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="212.92753240129127" x="-787.3182973317478" y="-1019.0604785482415"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="217.544921875" x="4.0" y="6.015625">Hercules.ServerEnv.HerculesCipher</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n0::n21">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="274.4780978386393" x="-1096.3563201417548" y="-724.8619876420643"/>
+              <y:Fill color="#CC99FF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="148.0703125" x="4.0" y="6.015625">Hercules.ServerEnv.Env</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n1" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="154.48941750000006" width="187.830078125" x="-2339.4953698826766" y="-1130.3425589394187"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="187.830078125" x="0.0" y="0.0">app/ Main.getConfig</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" y="0.0">Folder 7</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n1:">
+        <node id="n1::n0" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="64.0" width="157.830078125" x="-2324.4953698826766" y="-1093.8816214394187"/>
+                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="157.830078125" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.2880859375" x="-17.14404296875" y="0.0">Folder 113</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n1::n0:">
+            <node id="n1::n0::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="127.830078125" x="-2309.4953698826766" y="-1074.8816214394187"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="104.435546875" x="11.697265625" y="6.015625">decodeFileEither<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n1::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="55.0" x="-2280.3319942865055" y="-1020.8531414394187"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.501953125" x="4.0" y="6.015625">Config</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n1::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-2324.4953698826766" y="-1020.8531414394187"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n1::n3">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="24.099609395525476" x="-2304.431603682031" y="-1020.8531414394187"/>
+              <y:Fill color="#FF99CC" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="16.984375" x="4.0" y="6.015625">IO</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n2">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="106.51134213330022" x="-2339.4953698826766" y="-1176.1244648280972"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="80.658203125" x="12.926569504149938" y="6.015625">Main.options<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="20.06376620064566" x="-2232.984027749376" y="-1176.1244648280972"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="71.52188413973317" x="-2212.92026154873" y="-1176.1244648280972"/>
+          <y:Fill color="#99CCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.802734375" x="4.0" y="6.015625">ParserInfo</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="45.76091820064539" x="-2141.3983774089975" y="-1176.1244648280972"/>
+          <y:Fill color="#00CCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.54296875" x="4.0" y="6.015625">Either</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="55.0" x="-2095.637459208352" y="-1176.1244648280972"/>
+          <y:Fill color="#00CCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="51.853515625" x="4.0" y="6.015625">FilePath</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="55.0" x="-2040.6374592083519" y="-1176.1244648280972"/>
+          <y:Fill color="#00CCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.501953125" x="4.0" y="6.015625">Config</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n8" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="400.99502479186776" width="541.610912982492" x="-1729.6717224268664" y="-1177.9025621080677"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="541.610912982492" x="0.0" y="0.0">Hercules.Lib.startApp</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" y="0.0">Folder 7</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n8:">
+        <node id="n8::n0" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="64.0" width="470.44184439604555" x="-1714.6717224268662" y="-1007.8603543125078"/>
+                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="470.44184439604555" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 16</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n8::n0:">
+            <node id="n8::n0::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="179.9159499207135" x="-1699.6717224268662" y="-988.8603543125078"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" underlinedText="true" verticalTextPosition="bottom" visible="true" width="172.873046875" x="4.0" y="6.015625">Hercules.ServerEnv.newEnv</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n8::n0::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-1519.7557725061527" y="-988.8603543125078"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n8::n0::n2">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="49.19689203744542" x="-1462.6993147231085" y="-988.8603543125078"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.80859375" x="4.0" y="6.015625">Maybe</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n8::n0::n3">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="154.27254465484225" x="-1413.5024226856629" y="-988.8603543125078"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="148.0703125" x="4.0" y="6.015625">Hercules.ServerEnv.Env</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n8::n0::n4">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="37.79269158239845" x="-1500.492006305507" y="-988.8603543125078"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n8::n1" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="64.0" width="189.05369199606434" x="-1714.6717224268662" y="-941.2612330951529"/>
+                  <y:Fill color="#FF99CC" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="189.05369199606434" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 18</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n8::n1:">
+            <node id="n8::n1::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="159.05369199606434" x="-1699.6717224268662" y="-922.2612330951529"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" underlinedText="true" verticalTextPosition="bottom" visible="true" width="148.369140625" x="4.0" y="6.015625">Hercules.ServerEnv.app</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n8::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="205.1797161213592" x="-1714.6717224268662" y="-870.662111877798"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="dashed_dotted" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="195.3671875" x="4.906264310679489" y="6.015625">Hercules.Lib.loggingMiddleware<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n3" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="81.4609375" width="239.2044005226503" x="-1714.6717224268662" y="-1141.4416246080677"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="239.2044005226503" x="0.0" y="0.0">Hercules.Config.Config</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="57" leftF="56.960000000000036" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.2880859375" x="-17.14404296875" y="0.0">Folder 251</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n8::n3:">
+            <node id="n8::n3::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="96.41971612135922" x="-1642.7117224268661" y="-1104.9806871080677"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.9375" x="15.741108060679608" y="6.015625">configPort<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n8::n3::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="35.76091820064539" x="-1526.2282401048612" y="-1104.9806871080677"/>
+                  <y:Fill color="#99CCFF" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.216796875" x="4.0" y="6.015625">Port</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n8::n3::n2">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="20.06376620064566" x="-1546.292006305507" y="-1104.9806871080677"/>
+                  <y:Fill color="#C0C0C0" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n8::n4">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="153.37971612135925" x="-1714.6717224268662" y="-1048.8603543125078"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" underlinedText="true" verticalTextPosition="bottom" visible="true" width="150.033203125" x="4.0" y="6.015625">configAuthenticatorsList</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n5">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1509.492006305507" y="-870.662111877798"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n6">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="159.05369199606434" x="-1451.6355485224628" y="-870.662111877798"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.408203125" x="4.0" y="6.015625">Network.Wai.Middleware</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n7">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1503.4355485224628" y="-1048.8603543125078"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="13.36328125" x="4.0" y="6.015625">[]</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n8">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1561.292006305507" y="-1048.8603543125078"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n9">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="280.31097287744274" x="-1483.3717823218171" y="-1048.8603543125078"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="268.498046875" x="4.0" y="6.015625">Hercules.OAuth.Types.OAuth2Authenticator</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n10">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="37.79269158239845" x="-1541.2282401048612" y="-1048.8603543125078"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n11">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="37.79269158239845" x="-1489.4282401048613" y="-870.662111877798"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n12">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="205.17971612135932" x="-1714.6717224268664" y="-821.9075373162"/>
+              <y:Fill color="#FFCC00" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="191.078125" x="7.050795560679717" y="6.015625">Network.Wai.Handler.Warp.run<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n13">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1509.492006305507" y="-821.9075373162"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n14">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="37.79269158239845" x="-1489.4282401048613" y="-821.9075373162"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.3125" x="4.0" y="6.015625">... →</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n15">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="24.099609395525476" x="-1451.6355485224628" y="-821.9075373162"/>
+              <y:Fill color="#FF99CC" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="16.984375" x="4.0" y="6.015625">IO</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n8::n16">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1427.5359391269374" y="-821.9075373162"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="13.36328125" x="4.0" y="6.015625">()</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n9" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="150.78880207662675" width="439.9055792762915" x="319.23250062904435" y="-1782.7712269008314"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="439.9055792762915" x="0.0" y="0.0">Hercules.OAuth.Authenticators.configAuthenticatorsList</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="97" rightF="97.2800000000002" top="9" topF="9.327864576626752"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" y="0.0">Folder 7</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n9:">
+        <node id="n9::n0">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="354.29626682969" y="-1676.9824248242046"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="13.36328125" x="4.0" y="6.015625">[]</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n9::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="334.23250062904435" y="-1676.9824248242046"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n9::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="269.0237662006457" x="374.36003303033567" y="-1676.9824248242046"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="268.498046875" x="4.0" y="6.015625">Hercules.OAuth.Types.OAuth2Authenticator</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n9::n3">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="146.14376620064564" x="354.29626682969" y="-1736.9824248242046"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="141.14453125" x="4.0" y="6.015625">Hercules.Config.Config</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n9::n4">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="334.23250062904435" y="-1736.9824248242046"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n9::n5">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="40.12753240129132" x="334.23250062904435" y="-1706.9824248242046"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="dashed_dotted" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="15.443359375" x="12.34208651314566" y="6.015625">...<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n10" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="150.78880207662675" width="379.3901437643824" x="-1111.8908964984057" y="-1573.6382001888046"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="379.3901437643824" x="0.0" y="0.0">Hercules.ServerEnv.getHerculesConnection</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="9" topF="9.327864576626752"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" y="0.0">Folder 7</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n10:">
+        <node id="n10::n0">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1096.8908964984057" y="-1467.8493981121778"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n10::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="146.14376620064564" x="-1076.82713029776" y="-1527.8493981121778"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="141.14453125" x="4.0" y="6.015625">Hercules.Config.Config</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n10::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1096.8908964984057" y="-1527.8493981121778"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n10::n3">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="40.12753240129132" x="-1096.8908964984057" y="-1497.8493981121778"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="dashed_dotted" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="15.443359375" x="12.34208651314566" y="6.015625">...<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n10::n4">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="49.19689203744542" x="-1076.82713029776" y="-1467.8493981121778"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.80859375" x="4.0" y="6.015625">Maybe</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n10::n5">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="70.12753240129132" x="-1027.6302382603149" y="-1467.8493981121778"/>
+              <y:Fill color="#00CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.720703125" x="4.0" y="6.015625">Data.Pool</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n10::n6">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="205.17971612135932" x="-957.5027058590233" y="-1467.8493981121778"/>
+              <y:Fill color="#00CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.001953125" x="4.0" y="6.015625">Database.PostgreSQL.Connection</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n11">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="705.4418443960453" x="-1111.8908964984057" y="-1691.7101870105762"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="475.8671875" x="114.78732844802266" y="23.23564879099513">Hercules.ServerEnv<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="800.4418443960453" x="319.23250062904435" y="-1907.6026162200394"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="748.1875" x="26.127172198022663" y="23.23564879099513">Hercules.OAuth.Authenticators<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="455.4418443960453" x="-1112.0606862499371" y="-2348.1334263949702"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="383.3125" x="36.06467219802266" y="23.23564879099513">Hercules.Config<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="455.4418443960453" x="-1729.6717224268664" y="-1297.3809752447637"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="299.8515625" x="77.79514094802266" y="23.23564879099513">Hercules.Lib<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n15">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="477.9418443960453" x="-2339.4953698826766" y="-1298.259992517516"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="444.859375" x="16.54123469802289" y="23.23564879099513">backend/app Main<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n16">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="998.1957506460453" x="1214.7273823616483" y="-2340.0753693739152"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="925.2109375" x="36.49240657302266" y="23.23564879099513">Hercules.Database.Hercules.Migration<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n17">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="800.4418443960453" x="319.23250062904435" y="-2340.0753693739152"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="683.640625" x="58.40060969802266" y="23.23564879099513">Hercules.Database.Hercules<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="800.4418443960453" x="2307.976170344252" y="-2340.0753693739152"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="617.7109375" x="91.36545344802289" y="23.23564879099513">Hercules.Database.Hydra<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="998.1957506460453" x="1214.7273823616486" y="-1907.6026162200394"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="932.7109375" x="32.74240657302266" y="23.23564879099513">Hercules.OAuth.Authenticators.Google<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n20">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="998.1957506460453" x="2307.9761703442528" y="-1907.6026162200394"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="929.78125" x="34.20725032302289" y="23.23564879099513">Hercules.OAuth.Authenticators.GitHub<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n21">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="998.1957506460453" x="319.23250062904435" y="-1614.1894560742046"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="906.1796875" x="46.00803157302266" y="23.23564879099513">Hercules.OAuth.Authenticators.Types<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n22">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="998.1957506460453" x="319.23250062904435" y="-1426.5736272422143"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="872.8515625" x="62.67209407302266" y="23.23564879099513">Hercules.OAuth.Authenticators.User<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n23">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="800.4418443960453" x="319.23250062904435" y="-1191.2453973172494"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.484375" x="99.97873469802266" y="23.23564879099513">Hercules.Query.Hercules<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n24">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="800.4418443960453" x="1214.727382361648" y="-1191.2453973172494"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="534.5546875" x="132.94357844802266" y="23.23564879099513">Hercules.Query.Hydra<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n25">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="455.4418443960453" x="-1112.0606862499371" y="-2788.372627572861"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="305.2421875" x="75.09982844802266" y="23.23564879099513">Hercules.API<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n26">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="705.4418443960453" x="-1112.0606862499371" y="-2129.3957590399405"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="487.0" x="109.22092219802266" y="23.23564879099513">Hercules.Encryption<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n27">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="455.4418443960453" x="-1112.0606862499371" y="-1910.6580916849107"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="315.8828125" x="69.77951594802266" y="23.23564879099513">Hercules.Log<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n28">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="455.4418443960453" x="-329.28543499987427" y="-1907.6026162200394"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="379.5859375" x="37.92795344802266" y="23.23564879099513">Hercules.OAuth<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n29">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="455.4418443960453" x="-1111.8908964984057" y="-562.0739958698214"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="366.5546875" x="44.44357844802266" y="23.23564879099513">Hercules.Static<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n30">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="106.34629758199026" width="455.4418443960453" x="-1111.8908964984057" y="-337.9397065155882"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Lucida Bright" fontSize="48" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="438.6484375" x="8.396703448022663" y="23.23564879099513">Hercules.Swagger<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n31" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="141.4609375" width="267.5585729341842" x="-1729.6717224268664" y="-633.0156985795643"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="267.5585729341842" x="0.0" y="0.0">Hercules.Lib.app</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="38" rightF="38.06121296301308" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 17</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n31:">
+        <node id="n31::n0">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1714.6717224268664" y="-536.5547610795643"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n31::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="146.14376620064564" x="-1694.6079562262207" y="-596.5547610795643"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="148.0703125" x="4.0" y="6.015625">Hercules.ServerEnv.Env</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n31::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1714.6717224268664" y="-596.5547610795643"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n31::n3">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="40.12753240129132" x="-1714.6717224268664" y="-566.5547610795643"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="dashed_dotted" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="15.443359375" x="12.34208651314566" y="6.015625">...<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n31::n4">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="153.37971612135925" x="-1670.5083468306952" y="-536.5547610795643"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="151.333984375" x="4.0" y="6.015625">Network.Wai.Application</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n31::n5">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="24.099609395525476" x="-1694.6079562262207" y="-536.5547610795643"/>
+              <y:Fill color="#FF99CC" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="16.984375" x="4.0" y="6.015625">IO</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n32" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="141.4609375" width="311.62319844336434" x="-1729.6717224268664" y="-461.5620852983143"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="311.62319844336434" x="0.0" y="0.0">Hercules.Lib.server</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 17</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n32:">
+        <node id="n32::n0">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1714.6717224268664" y="-365.1011477983143"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n32::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="146.14376620064564" x="-1694.6079562262207" y="-425.1011477983143"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="148.0703125" x="4.0" y="6.015625">Hercules.ServerEnv.Env</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n32::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="20.06376620064566" x="-1714.6717224268664" y="-425.1011477983143"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="12.0859375" x="4.0" y="6.015625">::</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n32::n3">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="40.12753240129132" x="-1714.6717224268664" y="-395.1011477983143"/>
+              <y:Fill color="#C0C0C0" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="dashed_dotted" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="15.443359375" x="12.34208651314566" y="6.015625">...<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n32::n4">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="130.77971612135934" x="-1694.6079562262207" y="-365.1011477983143"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="137.03125" x="4.0" y="6.015625">Servant.Server.Server</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n32::n5">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="30.0" width="130.77971612135934" x="-1563.8282401048614" y="-365.1011477983143"/>
+              <y:Fill color="#99CCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="102.109375" x="4.0" y="6.015625">Hercules.API.API</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <edge id="n1::e0" source="n1::n0::n0" target="n1::n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-16.35127286185434" sy="15.0234375" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e0" source="n2" target="n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-40.65936799584989" ty="-77.24698751318007"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n6" target="n1::n0::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n7" target="n1::n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n9" target="n8::n4">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-216.74786605137206" sy="-75.72444809078597" tx="-77.00556580359603" ty="-15.225491326024411"/>
+          <y:LineStyle color="#000000" type="dotted" width="1.0"/>
+          <y:Arrows source="none" target="transparent_circle"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n8::e0" source="n8::n3" target="n8::n4">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="40.769689321517944" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n8::e1" source="n8::n3" target="n8::n2">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="40.769689321517944" tx="17.012342200645662" ty="-14.972113534241089"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n8::e2" source="n8::n3" target="n8::n0::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="40.769689321517944" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n8::e3" source="n8::n4" target="n8::n0::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n10" target="n0::n5::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-187.24954972374644" sy="-71.96079289749616" tx="-131.29029911876466" ty="-14.793993359375122"/>
+          <y:LineStyle color="#000000" type="dotted" width="1.0"/>
+          <y:Arrows source="none" target="transparent_circle"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e0" source="n0::n0" target="n0::n5::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e1" source="n0::n0::n6" target="n0::n8::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-15.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e2" source="n0::n8::n0" target="n0::n7">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e3" source="n0::n9" target="n0::n12::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e4" source="n0::n13::n2" target="n0::n16">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e5" source="n0::n13::n0" target="n0::n14">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e6" source="n0::n0" target="n0::n20::n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e7" source="n0::n20::n3" target="n0::n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-28.64423399048178" ty="-14.997237903323708"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e8" source="n0::n5::n0" target="n0::n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="39.89371626659329" sy="15.02512118248643" tx="49.40987973507697" ty="-15.00973790332364"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e9" source="n0::n7" target="n0::n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-64.24362681209664" ty="-14.984737903323662"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e10" source="n0::n12::n0" target="n0::n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="39.364226059623206" sy="15.02700754976513" tx="23.76505478097488" ty="-14.984737903323662"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e11" source="n0::n2" target="n0::n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-88.06543577928778" ty="-14.984737903323662"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e12" source="n0::n14" target="n0::n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-2.799171278648373" ty="-14.97223790332373"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e13" source="n0::n0::n0" target="n0::n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="101.26319134827486" ty="-15.019802956529702"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e14" source="n0::n0::n3" target="n0::n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="75.63538561844689" ty="-15.016366633514622"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n0" target="n8::n0::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-352.5696067891147" sy="-362.8130600512983" tx="-90.59105083918185" ty="-16.264804594147336"/>
+          <y:LineStyle color="#000000" type="dotted" width="1.0"/>
+          <y:Arrows source="none" target="transparent_circle"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n8::e4" source="n8::n0::n0" target="n8::n1::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-10.431128962324692" sy="15.012737275687869" tx="0.0" ty="-15.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n31" target="n8::n1::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-77.62769026985029" ty="14.985457677251247"/>
+          <y:LineStyle color="#000000" type="dotted" width="1.0"/>
+          <y:Arrows source="none" target="transparent_circle"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n8::e5" source="n8::n1::n0" target="n8::n2">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="-5.0528597710408825" ty="-14.980470004142262"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n8::e6" source="n8::n2" target="n8::n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n8::e7" source="n8::n3::n0" target="n8::n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="34.171690706632035" sy="14.989531971648375" tx="51.75169070663219" ty="-15.00991023961501"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
+</graphml>
